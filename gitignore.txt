@@ -1,0 +1,14 @@
+# Visual Studio / SSMS temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# SQL Server specific
+*.tmp
+*.log
+
+# Data files
+datasets/
+*.csv
